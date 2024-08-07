@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer / Designer / Filmmaker)`**
 
-👋 Welcomes to my Github profile! I'm a passionate Front-End Developer with 8 years experience and  a mission to craft exceptional user experiences through the power of code and design. With a strong foundation in web technologies, a knack for problem-solving, and an eye for detail, I bring digital ideas to life with creativity and precision
+👋 Welcome to my Github profile! I'm a passionate Front-End Developer with 8 years experience and  a mission to craft exceptional user experiences through the power of code and design. With a strong foundation in web technologies, a knack for problem-solving, and an eye for detail, I bring digital ideas to life with creativity and precision
 
 ---
 
@@ -22,6 +22,23 @@
 
 ---
 
+#
+
+<!-- ### 📺 Latest YouTube Videos -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![I Coded with React for a Year](https://ytcards.demolab.com/?id=0RZGHUwwi4k&title=I+Coded+with+React+for+a+Year&lang=en&timestamp=1722534300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1574 "I Coded with React for a Year")](https://www.youtube.com/watch?v=0RZGHUwwi4k)
+[![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
+[![Passion](https://ytcards.demolab.com/?id=fP9c9PB9RKI&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=fP9c9PB9RKI)
+[![Llama 3.1 is ACTUALLY really good! (and open source)](https://ytcards.demolab.com/?id=IxbR0yTMMY8&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=IxbR0yTMMY8)
+[![How a Logic Error DESTROYED 8,513,869 Computers](https://ytcards.demolab.com/?id=VpZno4TF8MU&title=How+a+Logic+Error+DESTROYED+8%2C513%2C869+Computers&lang=en&timestamp=1721772015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288 "How a Logic Error DESTROYED 8,513,869 Computers")](https://www.youtube.com/watch?v=VpZno4TF8MU)
+[![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=x-uTUF7XdaQ&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://www.youtube.com/watch?v=x-uTUF7XdaQ)
+<!-- END YOUTUBE-CARDS -->
+
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
+
+#
+
 <details>
  <summary><h3>👨‍💻 What I Bring to the Table:</h3></summary>
    🚀 Expertise: I specialize in HTML5, CSS3, JavaScript, and various front-end frameworks (React, Vue.js, Angular) to build responsive, interactive, and high-performance websites and applications.
@@ -39,21 +56,3 @@
    🔧 Problem Solver: I enjoy tackling complex challenges and finding elegant solutions. Every problem is an opportunity for innovation.
 
    Let's Connect!
-
-#
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![I Coded with React for a Year](https://tronzed.github.io/HTML-DWP/ "I Coded with React for a Year")](https://www.youtube.com/watch?v=0RZGHUwwi4k)
-[![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
-[![Passion](https://ytcards.demolab.com/?id=fP9c9PB9RKI&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=fP9c9PB9RKI)
-[![Llama 3.1 is ACTUALLY really good! (and open source)](https://ytcards.demolab.com/?id=IxbR0yTMMY8&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=IxbR0yTMMY8)
-[![How a Logic Error DESTROYED 8,513,869 Computers](https://ytcards.demolab.com/?id=VpZno4TF8MU&title=How+a+Logic+Error+DESTROYED+8%2C513%2C869+Computers&lang=en&timestamp=1721772015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288 "How a Logic Error DESTROYED 8,513,869 Computers")](https://www.youtube.com/watch?v=VpZno4TF8MU)
-[![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=x-uTUF7XdaQ&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://www.youtube.com/watch?v=x-uTUF7XdaQ)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-

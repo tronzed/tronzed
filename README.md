@@ -4,6 +4,7 @@
 
 👋 Welcome to my Github profile! I'm a passionate Front-End Developer with 8 years experience and  a mission to craft exceptional user experiences through the power of code and design. With a strong foundation in web technologies, a knack for problem-solving, and an eye for detail, I bring digital ideas to life with creativity and precision
 
+---
 
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -19,7 +20,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+---
 
 <details>
  <summary><h3>👨‍💻 What I Bring to the Table:</h3></summary>

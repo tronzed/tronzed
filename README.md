@@ -23,35 +23,81 @@
 ---
 
 
-## Project Gallery
+## Image Gallery
 
-### Featured Projects
+Below is a 3x3 grid of images, each with a link and heading text.
 
-<div style="display: flex; justify-content: space-around;">
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <a href="https://github.com/username/project1">
-      <img src="https://via.placeholder.com/150" alt="Project 1" style="max-width: 100%;" />
-      <h4>Project 1</h4>
-    </a>
-    <p>Description: A brief description of Project 1.</p>
-  </div>
-  
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <a href="https://github.com/username/project2">
-      <img src="https://via.placeholder.com/150" alt="Project 2" style="max-width: 100%;" />
-      <h4>Project 2</h4>
-    </a>
-    <p>Description: A brief description of Project 2.</p>
-  </div>
-  
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <a href="https://github.com/username/project3">
-      <img src="https://via.placeholder.com/150" alt="Project 3" style="max-width: 100%;" />
-      <h4>Project 3</h4>
-    </a>
-    <p>Description: A brief description of Project 3.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://example.com/link1">
+        <img src="https://via.placeholder.com/150" alt="Image 1" />
+        <br/>
+        <strong>Heading 1</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link2">
+        <img src="https://via.placeholder.com/150" alt="Image 2" />
+        <br/>
+        <strong>Heading 2</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link3">
+        <img src="https://via.placeholder.com/150" alt="Image 3" />
+        <br/>
+        <strong>Heading 3</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://example.com/link4">
+        <img src="https://via.placeholder.com/150" alt="Image 4" />
+        <br/>
+        <strong>Heading 4</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link5">
+        <img src="https://via.placeholder.com/150" alt="Image 5" />
+        <br/>
+        <strong>Heading 5</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link6">
+        <img src="https://via.placeholder.com/150" alt="Image 6" />
+        <br/>
+        <strong>Heading 6</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://example.com/link7">
+        <img src="https://via.placeholder.com/150" alt="Image 7" />
+        <br/>
+        <strong>Heading 7</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link8">
+        <img src="https://via.placeholder.com/150" alt="Image 8" />
+        <br/>
+        <strong>Heading 8</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://example.com/link9">
+        <img src="https://via.placeholder.com/150" alt="Image 9" />
+        <br/>
+        <strong>Heading 9</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 

@@ -27,7 +27,7 @@
 
 Below is a 3x3 grid of images, each with a link and heading text.
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <a href="https://example.com/link1">

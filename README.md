@@ -3,11 +3,8 @@
 **`Digital Craftsman (Developer / Designer / Filmmaker)`**
 
 👋 Welcome to my Github profile! I'm a passionate Front-End Developer with 8 years experience and  a mission to craft exceptional user experiences through the power of code and design. With a strong foundation in web technologies, a knack for problem-solving, and an eye for detail, I bring digital ideas to life with creativity and precision
-
----
-
+----
 ### 🧰 Languages and Tools
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -20,9 +17,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
----
-
+----
 <details>
  <summary><h3>👨‍💻 What I Bring to the Table:</h3></summary>
    🚀 Expertise: I specialize in HTML5, CSS3, JavaScript, and various front-end frameworks (React, Vue.js, Angular) to build responsive, interactive, and high-performance websites and applications.

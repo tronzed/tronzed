@@ -28,6 +28,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![HTML-DWP](https://tronzed.github.io/public-links/dw.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
+[![HTML-DWP](https://tronzed.github.io/public-links/g_point.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
 
 [![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
 [![Passion](https://ytcards.demolab.com/?id=fP9c9PB9RKI&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=fP9c9PB9RKI)

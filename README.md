@@ -53,7 +53,7 @@
 [![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=x-uTUF7XdaQ&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://www.youtube.com/watch?v=x-uTUF7XdaQ)
 <!-- END YOUTUBE-CARDS -->
 
-<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 

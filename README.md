@@ -28,7 +28,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![HTML-DWP](https://tronzed.github.io/public-links/dw.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/){:target="_blank"}
+[![HTML-DWP](https://tronzed.github.io/public-links/dw.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)[go]{:target="_blank" rel="noopener"}
 [![HTML-g_point](https://tronzed.github.io/public-links/g_point.jpg "HTML-g_point")](https://tronzed.github.io/g_point/)
 [![HTML-belle-emporium](https://tronzed.github.io/public-links/belle-emporium.jpg "HTML-belle-emporium")](https://tronzed.github.io/belle-emporium/)
 [![HTML-go_site](https://tronzed.github.io/public-links/go_site.jpg "HTML-go_site")](https://tronzed.github.io/go_site/)

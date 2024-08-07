@@ -28,10 +28,10 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![HTML-DWP](https://tronzed.github.io/public-links/dw.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
-[![HTML-DWP](https://tronzed.github.io/public-links/g_point.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
-[![HTML-DWP](https://tronzed.github.io/public-links/belle-emporium.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
-[![HTML-DWP](https://tronzed.github.io/public-links/go_site.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
-[![HTML-DWP](https://tronzed.github.io/public-links/zoila.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
+[![HTML-DWP](https://tronzed.github.io/public-links/g_point.jpg "HTML-DWP")](https://tronzed.github.io/g_point/)
+[![HTML-DWP](https://tronzed.github.io/public-links/belle-emporium.jpg "HTML-DWP")](https://tronzed.github.io/belle-emporium/)
+[![HTML-DWP](https://tronzed.github.io/public-links/go_site.jpg "HTML-DWP")](https://tronzed.github.io/go_site/)
+[![HTML-DWP](https://tronzed.github.io/public-links/zoila.jpg "HTML-DWP")](https://tronzed.github.io/zoila/)
 [![HTML-DWP](https://tronzed.github.io/public-links/lifestyle.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
 
 <!-- END YOUTUBE-CARDS -->

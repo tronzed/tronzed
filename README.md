@@ -27,17 +27,31 @@
 
 ### Featured Projects
 
-#### Project 1: Awesome Project
-[![Project 1](https://via.placeholder.com/150)](https://github.com/username/awesome-project)
-Description: A brief description of what this project is about.
-
-#### Project 2: Cool Project
-[![Project 2](https://via.placeholder.com/150)](https://github.com/username/cool-project)
-Description: A brief description of what this project is about.
-
-#### Project 3: Amazing Project
-[![Project 3](https://via.placeholder.com/150)](https://github.com/username/amazing-project)
-Description: A brief description of what this project is about.
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center; flex: 1; margin: 0 10px;">
+    <a href="https://github.com/username/project1">
+      <img src="https://via.placeholder.com/150" alt="Project 1" style="max-width: 100%;" />
+      <h4>Project 1</h4>
+    </a>
+    <p>Description: A brief description of Project 1.</p>
+  </div>
+  
+  <div style="text-align: center; flex: 1; margin: 0 10px;">
+    <a href="https://github.com/username/project2">
+      <img src="https://via.placeholder.com/150" alt="Project 2" style="max-width: 100%;" />
+      <h4>Project 2</h4>
+    </a>
+    <p>Description: A brief description of Project 2.</p>
+  </div>
+  
+  <div style="text-align: center; flex: 1; margin: 0 10px;">
+    <a href="https://github.com/username/project3">
+      <img src="https://via.placeholder.com/150" alt="Project 3" style="max-width: 100%;" />
+      <h4>Project 3</h4>
+    </a>
+    <p>Description: A brief description of Project 3.</p>
+  </div>
+</div>
 
 
 

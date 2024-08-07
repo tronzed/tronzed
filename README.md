@@ -22,6 +22,25 @@
 
 ---
 
+
+## Project Gallery
+
+### Featured Projects
+
+#### Project 1: Awesome Project
+[![Project 1](https://via.placeholder.com/150)](https://github.com/username/awesome-project)
+Description: A brief description of what this project is about.
+
+#### Project 2: Cool Project
+[![Project 2](https://via.placeholder.com/150)](https://github.com/username/cool-project)
+Description: A brief description of what this project is about.
+
+#### Project 3: Amazing Project
+[![Project 3](https://via.placeholder.com/150)](https://github.com/username/amazing-project)
+Description: A brief description of what this project is about.
+
+
+
 #
 
 <!-- ### 📺 Latest YouTube Videos -->

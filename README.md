@@ -28,8 +28,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![HTML-DWP](https://tronzed.github.io/public-links/v1_screen_01.jpg "HTML-DWP")](https://photopedia-gray.vercel.app/v1/index.html)
-[![HTML-g_point](https://tronzed.github.io/public-links/v1_screen_02.jpg "HTML-g_point")](https://photopedia-gray.vercel.app/v2/index.html)
-[![HTML-belle-emporium](https://tronzed.github.io/public-links/v1_screen_03.jpg "HTML-belle-emporium")](https://photopedia-gray.vercel.app/v3/index.html)
+[![HTML-g_point](https://tronzed.github.io/public-links/v2_screen_02.jpg "HTML-g_point")](https://photopedia-gray.vercel.app/v2/index.html)
+[![HTML-belle-emporium](https://tronzed.github.io/public-links/v3_screen_03.jpg "HTML-belle-emporium")](https://photopedia-gray.vercel.app/v3/index.html)
 [![HTML-DWP](https://tronzed.github.io/public-links/dw.jpg "HTML-DWP")](https://tronzed.github.io/HTML-DWP/)
 [![HTML-g_point](https://tronzed.github.io/public-links/g_point.jpg "HTML-g_point")](https://tronzed.github.io/g_point/)
 [![HTML-belle-emporium](https://tronzed.github.io/public-links/belle-emporium.jpg "HTML-belle-emporium")](https://tronzed.github.io/belle-emporium/)

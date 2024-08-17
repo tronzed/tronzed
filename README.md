@@ -29,7 +29,7 @@
 
 ---
 
-### ⌨️ Links
+### 💎 Links
 
 <!-- BEGIN YOUTUBE-CARDS -->
 

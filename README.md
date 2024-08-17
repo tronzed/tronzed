@@ -25,7 +25,7 @@
 
 ### ⌨️ React 
 
-[![Wikipedia]](https://wiki-clone-pi.vercel.app/)
+[Wikipedia](https://wiki-clone-pi.vercel.app/)
 
 ---
 

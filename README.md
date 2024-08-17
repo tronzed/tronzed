@@ -1,6 +1,6 @@
 # 🚀 Tanuj Saini 
 
-**`Digital Craftsman (Developer / Designer / Filmmaker)`**
+**`Digital Craftsman (Developer / Designer)`**
 
 👋 Welcome to my Github profile! I'm a passionate Front-End Developer with 8 years experience and  a mission to craft exceptional user experiences through the power of code and design. With a strong foundation in web technologies, a knack for problem-solving, and an eye for detail, I bring digital ideas to life with creativity and precision
 

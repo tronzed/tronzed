@@ -25,7 +25,7 @@
 
 ### ⌨️ React 
 
-[![HTML-DWP](Wikipedia "HTML-DWP")](https://wiki-clone-pi.vercel.app/)
+[![Wikipedia]](https://wiki-clone-pi.vercel.app/)
 
 ---
 

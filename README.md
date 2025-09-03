@@ -26,6 +26,7 @@
 ### ⌨️ React 
 
 [Wikipedia Clone](https://wiki-clone-alpha.vercel.app/)
+[Pizza-Fest](https://pizza-fest.vercel.app/)
 
 ---
 

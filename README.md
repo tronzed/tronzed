@@ -23,7 +23,7 @@
 
 ---
 
-### ⌨️ React 
+### ⌨️ React Projects
 
 [Pizza-Fest](https://pizza-fest.vercel.app/)
 [Wikipedia Clone](https://wiki-clone-alpha.vercel.app/)

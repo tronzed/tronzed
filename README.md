@@ -27,6 +27,9 @@
 
 [Pizza-Fest](https://pizza-fest.vercel.app/)
 [Wikipedia Clone](https://wiki-clone-alpha.vercel.app/)
+[mrbingcast](https://mrbingcast.vercel.app/)
+
+
 
 ---
 
